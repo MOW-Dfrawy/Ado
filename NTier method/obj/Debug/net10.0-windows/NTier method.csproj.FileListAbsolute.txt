@@ -1,0 +1,116 @@
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\NTier method.exe
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\NTier method.deps.json
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\NTier method.runtimeconfig.json
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\NTier method.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\NTier method.pdb
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Azure.Core.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Azure.Identity.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\System.ClientModel.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\System.Memory.Data.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\obj\Debug\net10.0-windows\NTier method.csproj.AssemblyReference.cache
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\obj\Debug\net10.0-windows\NTier_method.Form1.resources
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\obj\Debug\net10.0-windows\NTier method.csproj.GenerateResource.cache
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\obj\Debug\net10.0-windows\NTier method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\obj\Debug\net10.0-windows\NTier method.AssemblyInfoInputs.cache
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\obj\Debug\net10.0-windows\NTier method.AssemblyInfo.cs
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\obj\Debug\net10.0-windows\NTier method.csproj.CoreCompileInputs.cache
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\obj\Debug\net10.0-windows\NTier me.5BAE6F9B.Up2Date
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\obj\Debug\net10.0-windows\NTier method.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\obj\Debug\net10.0-windows\refint\NTier method.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\obj\Debug\net10.0-windows\NTier method.pdb
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\obj\Debug\net10.0-windows\NTier method.genruntimeconfig.cache
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\NTier method\obj\Debug\net10.0-windows\ref\NTier method.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\NTier method.exe
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\NTier method.deps.json
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\NTier method.runtimeconfig.json
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\NTier method.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\NTier method.pdb
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Azure.Core.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Azure.Identity.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\System.ClientModel.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\System.Memory.Data.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\obj\Debug\net10.0-windows\NTier method.csproj.AssemblyReference.cache
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\obj\Debug\net10.0-windows\NTier_method.Form1.resources
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\obj\Debug\net10.0-windows\NTier method.csproj.GenerateResource.cache
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\obj\Debug\net10.0-windows\NTier method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\obj\Debug\net10.0-windows\NTier method.AssemblyInfoInputs.cache
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\obj\Debug\net10.0-windows\NTier method.AssemblyInfo.cs
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\obj\Debug\net10.0-windows\NTier method.csproj.CoreCompileInputs.cache
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\obj\Debug\net10.0-windows\NTier me.5BAE6F9B.Up2Date
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\obj\Debug\net10.0-windows\NTier method.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\obj\Debug\net10.0-windows\refint\NTier method.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\obj\Debug\net10.0-windows\NTier method.pdb
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\obj\Debug\net10.0-windows\NTier method.genruntimeconfig.cache
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\NTier method\obj\Debug\net10.0-windows\ref\NTier method.dll

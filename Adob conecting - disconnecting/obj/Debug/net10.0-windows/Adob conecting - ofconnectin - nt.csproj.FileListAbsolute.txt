@@ -1,0 +1,189 @@
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.exe
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.deps.json
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.runtimeconfig.json
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.pdb
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Azure.Core.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Azure.Identity.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\System.ClientModel.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\System.Memory.Data.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.csproj.AssemblyReference.cache
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.Form1.resources
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.csproj.GenerateResource.cache
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.AssemblyInfoInputs.cache
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.AssemblyInfo.cs
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.csproj.CoreCompileInputs.cache
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\Adob con.75480889.Up2Date
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\refint\Adob conecting - ofconnectin - nt.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.pdb
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.genruntimeconfig.cache
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\ref\Adob conecting - ofconnectin - nt.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.createaccount.resources
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.login.resources
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.Disconnected_mode.resources
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.profile.resources
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - ofconnectin - nt\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.update_user_and_password.resources
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.exe
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.deps.json
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.runtimeconfig.json
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.pdb
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Azure.Core.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Azure.Identity.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\System.ClientModel.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\System.Memory.Data.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.csproj.AssemblyReference.cache
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.createaccount.resources
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.Disconnected_mode.resources
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.Form1.resources
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.login.resources
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.profile.resources
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.update_user_and_password.resources
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.csproj.GenerateResource.cache
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.AssemblyInfoInputs.cache
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.AssemblyInfo.cs
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.csproj.CoreCompileInputs.cache
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob con.75480889.Up2Date
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\refint\Adob conecting - ofconnectin - nt.dll
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.pdb
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.genruntimeconfig.cache
+C:\Users\medod\Downloads\DOT NET\Advanced C# day 6\Advanced C# day 6\day6-\Adob conecting - disconnecting\obj\Debug\net10.0-windows\ref\Adob conecting - ofconnectin - nt.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.exe
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.deps.json
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.runtimeconfig.json
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.pdb
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Azure.Core.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Azure.Identity.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Identity.Client.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\System.ClientModel.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\System.Memory.Data.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.csproj.AssemblyReference.cache
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.createaccount.resources
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.Disconnected_mode.resources
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.Form1.resources
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.login.resources
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.profile.resources
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob_conecting___ofconnectin___nt.update_user_and_password.resources
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.csproj.GenerateResource.cache
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.AssemblyInfoInputs.cache
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.AssemblyInfo.cs
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.csproj.CoreCompileInputs.cache
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob con.75480889.Up2Date
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\refint\Adob conecting - ofconnectin - nt.dll
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.pdb
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\Adob conecting - ofconnectin - nt.genruntimeconfig.cache
+C:\Users\medod\Downloads\DOT NET\ADO Task (login - connecting - disconnecting - Ntier)\Adob conecting - disconnecting\obj\Debug\net10.0-windows\ref\Adob conecting - ofconnectin - nt.dll

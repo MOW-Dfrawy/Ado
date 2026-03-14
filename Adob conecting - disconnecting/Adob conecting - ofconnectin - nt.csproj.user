@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="createaccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Disconnected_mode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="profile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="update user and password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

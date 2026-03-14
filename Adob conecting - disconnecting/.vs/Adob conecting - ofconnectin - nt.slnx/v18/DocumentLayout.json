@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|c:\\users\\medod\\downloads\\dot net\\ado task (login - connecting - disconnecting - ntier)\\adob conecting - disconnecting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|c:\\users\\medod\\downloads\\dot net\\ado task (login - connecting - disconnecting - ntier)\\adob conecting - disconnecting\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\update user and password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|solutionrelative:update user and password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|c:\\users\\medod\\downloads\\dot net\\ado task (login - connecting - disconnecting - ntier)\\adob conecting - disconnecting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE61357-8D12-4353-B6DE-289923A58992}|..\\NTier method\\NTier method.csproj|c:\\users\\medod\\downloads\\dot net\\ado task (login - connecting - disconnecting - ntier)\\ntier method\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|c:\\users\\medod\\downloads\\dot net\\ado task (login - connecting - disconnecting - ntier)\\adob conecting - disconnecting\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|solutionrelative:createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|solutionrelative:createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\medod\\Downloads\\DOT NET\\Advanced C# day 6\\Advanced C# day 6\\day6-\\NTier method\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|solutionrelative:profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|c:\\users\\medod\\downloads\\dot net\\ado task (login - connecting - disconnecting - ntier)\\adob conecting - disconnecting\\disconnected_mode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|solutionrelative:disconnected_mode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\medod\\downloads\\dot net\\advanced c# day 6\\advanced c# day 6\\day6-\\ntier method\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\disconnected_mode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{11D40E2B-457B-1F0F-AD1C-C201F326B628}|Adob conecting - ofconnectin - nt.csproj|solutionrelative:disconnected_mode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T21:49:13.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\NTier method\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\NTier method\\Form1.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\NTier method\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\NTier method\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T21:49:08.642Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "createaccount.cs",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\createaccount.cs",
+              "RelativeDocumentMoniker": "createaccount.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\createaccount.cs",
+              "RelativeToolTip": "createaccount.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAApwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T22:08:25.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:33:57.059Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "update user and password.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\update user and password.cs",
+              "RelativeDocumentMoniker": "update user and password.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\update user and password.cs [Design]",
+              "RelativeToolTip": "update user and password.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:33:59.052Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAEwEUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T21:01:59.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "createaccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\createaccount.cs",
+              "RelativeDocumentMoniker": "createaccount.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\createaccount.cs [Design]",
+              "RelativeToolTip": "createaccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:33:53.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\login.cs",
+              "RelativeToolTip": "login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T21:01:52.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\login.cs [Design]",
+              "RelativeToolTip": "login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:33:57.688Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\Advanced C# day 6\\Advanced C# day 6\\day6-\\NTier method\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\Advanced C# day 6\\Advanced C# day 6\\day6-\\NTier method\\Form1.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\Advanced C# day 6\\Advanced C# day 6\\day6-\\NTier method\\Form1.cs",
+              "RelativeToolTip": "..\\..\\Advanced C# day 6\\Advanced C# day 6\\day6-\\NTier method\\Form1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T21:12:34.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\profile.cs",
+              "RelativeDocumentMoniker": "profile.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\profile.cs [Design]",
+              "RelativeToolTip": "profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:33:58.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Disconnected_mode.cs",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\Disconnected_mode.cs",
+              "RelativeDocumentMoniker": "Disconnected_mode.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\Disconnected_mode.cs",
+              "RelativeToolTip": "Disconnected_mode.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAcwB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T21:02:27.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\Advanced C# day 6\\Advanced C# day 6\\day6-\\NTier method\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\Advanced C# day 6\\Advanced C# day 6\\day6-\\NTier method\\Form1.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\Advanced C# day 6\\Advanced C# day 6\\day6-\\NTier method\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\Advanced C# day 6\\Advanced C# day 6\\day6-\\NTier method\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T21:12:29.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Disconnected_mode.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\medod\\Downloads\\DOT NET\\ADO Task (login - connecting - disconnecting - Ntier)\\Adob conecting - disconnecting\\Disconnected_mode.cs",
+              "RelativeDocumentMoniker": "Disconnected_mode.cs",
+              "ToolTip": "C:\\Users\\medod\\Downloads\\DOT NET\\Advanced C# day 6\\Advanced C# day 6\\day6-\\Adob conecting - disconnecting\\Disconnected_mode.cs [Design]",
+              "RelativeToolTip": "..\\..\\Advanced C# day 6\\Advanced C# day 6\\day6-\\Adob conecting - disconnecting\\Disconnected_mode.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T20:33:56.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
